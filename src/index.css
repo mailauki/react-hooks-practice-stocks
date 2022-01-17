@@ -8,8 +8,10 @@ h2 {
 
 .card {
   width: 50%;
-  margin: 0 auto;
+  margin: 0 auto 4px auto;
   text-align: center;
+  border: 2px solid #D1D1D1;
+  border-radius: 6px;
 }
 
 .list-group {
